@@ -1,1 +1,1 @@
-adding some 
+adding txt edited directly from github
