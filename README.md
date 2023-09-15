@@ -1,1 +1,1 @@
-deleted read me code
+git reset
